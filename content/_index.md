@@ -99,12 +99,10 @@ The detailed program will be announced in early 2026.
 
 | Name | Affiliation |
 |------|-------------|
+| Greg Voth | University of Chicago |
 | Yuji Sugita | RIKEN / University of Tokyo |
 | Florence Tama | RIKEN / Nagoya University |
-| Greg Voth | University of Chicago |
 | Kei Moritsugu | Osaka Metropolitan University |
-| Alberto Perez | University of Florida |
-| Abhishek Singharoy | Arizona State University |
 | Yasuhiro Matsunaga | Saitama University / RIKEN |
 
 ---
