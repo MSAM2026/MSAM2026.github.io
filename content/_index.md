@@ -39,11 +39,12 @@ Registration is not yet open. Please check back later for updates.
 ## Venue
 
 **8th Floor, Integrated Innovation Building (IIB), RIKEN**
+
 6-7-1 Minatojima-minamimachi, Chuo-ku, Kobe, Japan
 
-The nearest station is "Iryo Center" via the Port Liner.
+The nearest station is "Iryo Center" via the Port Liner
 
-- [Access Information](https://www.kobe.riken.jp/en/access/east/)
+[Access Information](https://www.kobe.riken.jp/en/access/east/)
 
 ---
 
