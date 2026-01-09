@@ -1,0 +1,20 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Confidential materials - DO NOT COMMIT
+materials_should_not_be_commited_confidential/
+CLAUDE.md
+
+# Hugo lock file
+.hugo_build.lock
