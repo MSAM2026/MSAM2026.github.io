@@ -48,7 +48,7 @@ The nearest station is "Iryo Center" via the Port Liner
 
 ---
 
-## Confirmed Speakers
+## Invited Speakers
 
 | Name | Affiliation |
 |------|-------------|
@@ -60,12 +60,14 @@ The nearest station is "Iryo Center" via the Port Liner
 | Cecilia Clementi | Free University Berlin |
 | Chris Chipot | CNRS |
 | Darrin York | Rutgers University |
+| Florence Tama | RIKEN / Nagoya University |
 | Gerhard Hummer | Max Planck Institute of Biophysics |
 | Gianni De Fabritiis | University Pompeu Fabra |
 | Gregory Voth | University of Chicago |
 | Joan-Emma Shea | UC Santa Barbara |
 | Jonathan Essex | University of Southampton |
 | Juyong Lee | Seoul National University |
+| Kei Moritsugu | Osaka Metropolitan University |
 | Kei-ichi Okazaki | Institute for Molecular Science |
 | Kwangho Nam | University of Texas at Arlington |
 | Modesto Orozco | IRB Barcelona |
@@ -77,7 +79,13 @@ The nearest station is "Iryo Center" via the Port Liner
 | Wenfei Li | Nanjing University |
 | Xiangze Zeng | Hong Kong Baptist University |
 | Xuhui Huang | University of Wisconsin-Madison |
+| Yasuhiro Matsunaga | Saitama University / RIKEN |
 | Yi Wang | Chinese University of Hong Kong |
+| Yuji Sugita | RIKEN / University of Tokyo |
+| Syma Khalid | University of Oxford |
+| Jejoong Yoo | KIAS |
+| Emad Tajkhorshid | University of Illinois, Urbana-Champaign |
+| Yi Qin Gao | Peking U |
 
 ---
 
@@ -107,13 +115,8 @@ The detailed program will be announced in early 2026.
 
 ---
 
-## Sponsors
-
-- RIKEN Center for Computational Science
-
----
-
 ## Contact
 
 For inquiries, please contact:
-**Aya Takeuchi** - aya.takeuchi@riken.jp
+
+Aya Takeuchi - aya.takeuchi at riken.jp
