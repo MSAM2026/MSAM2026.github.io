@@ -82,7 +82,6 @@ The nearest station is "Iryo Center" via the Port Liner
 | Yasuhiro Matsunaga | Saitama University / RIKEN |
 | Yi Wang | Chinese University of Hong Kong |
 | Yuji Sugita | RIKEN / University of Tokyo |
-| Syma Khalid | University of Oxford |
 | Jejoong Yoo | KIAS |
 | Emad Tajkhorshid | University of Illinois, Urbana-Champaign |
 | Yi Qin Gao | Peking U |
