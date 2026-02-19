@@ -1,3 +1,20 @@
+/* Layout: left-align all content */
+.tc-l {
+  text-align: left !important;
+}
+
+article.tc-l {
+  text-align: left !important;
+}
+
+.cover .tc-l {
+  text-align: center !important;
+}
+
+.measure-wide {
+  max-width: 64rem !important;
+}
+
 .nested-copy-line-height {
   max-width: 100% !important;
 }
@@ -14,7 +31,6 @@ ul, ol {
   padding-left: 2rem;
   margin-left: 0;
   text-align: left;
-  display: inline-block;
 }
 
 ul li, ol li {
@@ -24,8 +40,8 @@ ul li, ol li {
 
 .nested-copy-line-height ul,
 .nested-copy-line-height ol {
-  list-style-position: inside;
-  padding-left: 0;
+  list-style-position: outside;
+  padding-left: 2rem;
 }
 
 table {
@@ -37,7 +53,7 @@ table {
 th, td {
   border: 1px solid #ddd;
   padding: 0.5rem 1rem;
-  text-align: left;
+  text-align: left !important;
 }
 
 th {
@@ -67,14 +83,91 @@ h2.fw1.f5.f3-l {
   }
 }
 
+/* Body text: override Tachyons f4 (1.25rem) */
+article.f4 {
+  font-size: 1rem !important;
+}
+
 h2 {
+  font-size: 1.4rem;
   border-bottom: 2px solid #00abae;
   padding-bottom: 0.5rem;
   margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.15rem;
 }
 
 hr {
   border: none;
   border-top: 1px solid #ddd;
   margin: 2rem 0;
+}
+
+/* Program schedule */
+.program-day {
+  margin-bottom: 2rem;
+}
+
+.session-title {
+  background-color: #00abae;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  margin: 1.5rem 0 0.5rem 0;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 3px;
+}
+
+.session-chair {
+  font-weight: normal;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.program-talk {
+  padding: 0.5rem 0 0.5rem 1rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.program-talk:hover {
+  background-color: #f9f9f9;
+}
+
+.talk-time {
+  font-weight: bold;
+  color: #333;
+  white-space: nowrap;
+}
+
+.talk-speaker {
+  font-weight: bold;
+}
+
+.talk-affiliation {
+  color: #666;
+}
+
+.talk-title {
+  color: #444;
+  font-style: italic;
+  padding-left: 1rem;
+  display: inline-block;
+}
+
+.program-break {
+  padding: 0.4rem 1rem;
+  color: #333;
+  margin: 0.3rem 0;
+}
+
+.program-social {
+  font-weight: bold;
+  color: #333;
+}
+
+.organizer {
+  padding: 0.3rem 0 0.3rem 1rem;
 }

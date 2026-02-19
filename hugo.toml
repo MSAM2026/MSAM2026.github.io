@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'MSAM - From Molecules to Cells'
 theme = 'ananke'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = "International Workshop on Multiscale Simulation and AI-Driven Modeling for Biomolecular Systems"
   favicon = ""
