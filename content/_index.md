@@ -22,19 +22,24 @@ Through this workshop, we seek to create a new research paradigm for achieving a
 
 ## Registration
 
-Registration is not yet open. Please check back later for updates.
+Registration is now open. There is no registration fee.
+
+Both on-site and Zoom participation are available. On-site registration will close once capacity is reached. Poster presentation slots are also available upon registration.
+
+<a href="https://forms.gle/fiLe78Gar7fFfDMC9" class="registration-button">Register Here</a>
 
 ---
 
 ## Venue
 
-**8th Floor, Integrated Innovation Building (IIB), RIKEN**
+**8th Floor, Integrated Innovation Building (IIB), RIKEN Center for Computational Science (R-CCS)**
 
-6-7-1 Minatojima-minamimachi, Chuo-ku, Kobe, Japan
+6-7-1 Minatojima-minamimachi, Chuo-ku, Kobe 650-0047, Japan
 
-The nearest station is "Iryo Center" via the Port Liner
+The nearest station is **Iryo Center (Medical Center)** on the Port Liner. The venue is a short walk from the station.
 
-[Access Information](https://www.kobe.riken.jp/en/access/east/)
+- [Access to RIKEN Kobe Campus](https://www.kobe.riken.jp/en/access/) (airports, Shinkansen, etc.)
+- [IIB Building Location](https://www.kobe.riken.jp/en/access/east/)
 
 ---
 
@@ -65,7 +70,7 @@ Each talk: 25 min presentation + 5 min Q&A = 30 min
 <div class="program-talk"><span class="talk-time">16:10 – 16:40</span> <span class="talk-speaker">Kei Moritsugu</span> <span class="talk-affiliation">(Osaka Metropolitan University)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-break">16:40 – 17:00 Coffee Break</div>
 <div class="program-break">17:00 – 18:00 Free Discussion / Poster Preparation</div>
-<div class="program-break program-social">18:00 – 20:00 Banquet + Poster Session I</div>
+<div class="program-break program-social">18:00 – 20:00 Banquet + Poster Session I (6F, IIB, buffet style)</div>
 </div>
 
 ### Day 2: May 29, 2026 (Fri)
@@ -90,7 +95,7 @@ Each talk: 25 min presentation + 5 min Q&A = 30 min
 <div class="program-talk"><span class="talk-time">16:00 – 16:30</span> <span class="talk-speaker">Adrian Roitberg</span> <span class="talk-affiliation">(University of Florida)</span><br><span class="talk-title">Machine Learning Potentials: much faster than quantum, somewhat slower than classical</span></div>
 <div class="program-talk"><span class="talk-time">16:30 – 17:00</span> <span class="talk-speaker">Gianni De Fabritiis</span> <span class="talk-affiliation">(University Pompeu Fabra)</span><br><span class="talk-title">Transferable neural network potentials of protein thermodynamics</span></div>
 <div class="program-break">17:00 – 17:30 Coffee Break / Poster Preparation</div>
-<div class="program-break program-social">17:30 – 18:30 Poster Session II</div>
+<div class="program-break program-social">17:30 – 18:30 Poster Session II (6F, IIB)</div>
 </div>
 
 ### Day 3: May 30, 2026 (Sat)
@@ -123,6 +128,12 @@ Each talk: 25 min presentation + 5 min Q&A = 30 min
 
 ---
 
+## Sponsors
+
+[Kato Memorial Bioscience Foundation](https://www.katokinen.or.jp/)
+
+---
+
 ## Contact
 
 For inquiries, please contact:
@@ -133,5 +144,5 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-02-19: Program published (tentative)
+- 2026-02-19: Program published (tentative), registration open
 - 2025-12-01: Website launched

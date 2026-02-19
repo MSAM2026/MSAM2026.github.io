@@ -171,3 +171,77 @@ hr {
 .organizer {
   padding: 0.3rem 0 0.3rem 1rem;
 }
+
+/* Print styles */
+@media print {
+  /* Header: make text dark and readable */
+  .cover .tc-l,
+  .cover h1,
+  .cover h2,
+  .cover .white-90,
+  .cover .white-80,
+  .cover .white-70 {
+    color: #000 !important;
+  }
+
+  /* Hide header background image, keep title text */
+  .cover {
+    background-image: none !important;
+    background-color: #fff !important;
+    filter: none !important;
+  }
+
+  .cover .dt.bg-black-60 {
+    background: none !important;
+  }
+
+  /* Ensure all text is dark */
+  body, p, div, span, li, td, th {
+    color: #000 !important;
+  }
+
+  .talk-affiliation {
+    color: #444 !important;
+  }
+
+  .talk-title {
+    color: #333 !important;
+  }
+
+  .session-title {
+    background-color: #00abae !important;
+    color: #fff !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Hide navigation */
+  nav {
+    display: none !important;
+  }
+
+  /* Registration button as plain link */
+  .registration-button {
+    background: none !important;
+    color: #000 !important;
+    padding: 0 !important;
+    text-decoration: underline !important;
+  }
+}
+
+/* Registration button */
+.registration-button {
+  display: inline-block;
+  background-color: #00abae;
+  color: #fff !important;
+  padding: 0.7rem 2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.registration-button:hover {
+  background-color: #008f91;
+  color: #fff !important;
+}
