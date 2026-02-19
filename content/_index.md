@@ -47,6 +47,8 @@ The nearest station is **Iryo Center (Medical Center)** on the Port Liner. The v
 
 Each talk: 25 min presentation + 5 min Q&A = 30 min
 
+Click on a talk title (▶) to view the abstract
+
 ### Day 1: May 28, 2026 (Thu)
 
 <div class="program-day">
@@ -90,7 +92,7 @@ We use multiscale molecular dynamics simulations to explore these details at a r
 ### Day 2: May 29, 2026 (Fri)
 
 <div class="program-day">
-<div class="session-title">Session 4: Multiscale Modeling, Coarse-Graining & Enhanced Sampling <span class="session-chair">(Chair: Florence Tama)</span></div>
+<div class="session-title">Session 4: Multiscale Modeling & Coarse-Graining <span class="session-chair">(Chair: Florence Tama)</span></div>
 <div class="program-talk"><span class="talk-time">09:00 – 09:30</span> <span class="talk-speaker">Gregory Voth</span> <span class="talk-affiliation">(University of Chicago)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-talk"><span class="talk-time">09:30 – 10:00</span> <span class="talk-speaker">Cecilia Clementi</span> <span class="talk-affiliation">(Free University Berlin)</span>
 <details class="talk-details"><summary>Modelling Protein Dynamics with Machine Learning and Molecular Simulation</summary>
@@ -100,7 +102,7 @@ microscopic simulation and experimental measurements.</div>
 </details></div>
 <div class="program-talk"><span class="talk-time">10:00 – 10:30</span> <span class="talk-speaker">Shoji Takada</span> <span class="talk-affiliation">(Kyoto University)</span><br><span class="talk-title">Protein-resolution modeling for cellular-scale simulations</span></div>
 <div class="program-break">10:30 – 10:50 Coffee Break</div>
-<div class="session-title">Session 5: Simulation Software & Multiscale Frontiers <span class="session-chair">(Chair: TBA)</span></div>
+<div class="session-title">Session 5: Multiscale Methods & Simulation Infrastructure <span class="session-chair">(Chair: TBA)</span></div>
 <div class="program-talk"><span class="talk-time">10:50 – 11:20</span> <span class="talk-speaker">Yuji Sugita</span> <span class="talk-affiliation">(RIKEN / University of Tokyo)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-talk"><span class="talk-time">11:20 – 11:50</span> <span class="talk-speaker">Bernard R. Brooks</span> <span class="talk-affiliation">(NIH)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-talk"><span class="talk-time">11:50 – 12:20</span> <span class="talk-speaker">Abhishek Singharoy</span> <span class="talk-affiliation">(Arizona State University)</span><br><span class="talk-title">TBA</span></div>
