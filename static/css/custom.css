@@ -174,6 +174,11 @@ hr {
 
 /* Print styles */
 @media print {
+  /* Force system fonts to prevent garbled text in PDF export */
+  * {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  }
+
   /* Header: make text dark and readable */
   .cover .tc-l,
   .cover h1,

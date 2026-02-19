@@ -32,7 +32,7 @@ Both on-site and Zoom participation are available. On-site registration will clo
 
 ## Venue
 
-**8th Floor, Integrated Innovation Building (IIB), RIKEN Center for Computational Science (R-CCS)**
+**8th Floor, Integrated Innovation Building (IIB), RIKEN**
 
 6-7-1 Minatojima-minamimachi, Chuo-ku, Kobe 650-0047, Japan
 
