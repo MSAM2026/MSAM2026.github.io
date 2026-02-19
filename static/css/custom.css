@@ -172,6 +172,61 @@ hr {
   padding: 0.3rem 0 0.3rem 1rem;
 }
 
+/* Accordion abstracts */
+.talk-details {
+  margin-top: 0.2rem;
+}
+
+.talk-details summary {
+  color: #444;
+  font-style: italic;
+  padding-left: 1rem;
+  cursor: pointer;
+  list-style: none;
+  display: block;
+}
+
+.talk-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.talk-details summary::before {
+  content: "\25B6 ";
+  font-size: 0.65em;
+  font-style: normal;
+  color: #00abae;
+  display: inline-block;
+  transition: transform 0.3s ease;
+  vertical-align: middle;
+  margin-right: 0.3rem;
+}
+
+.talk-details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.talk-details summary:hover {
+  color: #00abae;
+}
+
+.talk-abstract {
+  overflow: hidden;
+  padding: 0.5rem 1rem 0.5rem 1.5rem;
+  color: #555;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  border-left: 3px solid #00abae;
+  margin: 0.3rem 0 0.3rem 1rem;
+  background-color: #f9fafa;
+  border-radius: 0 3px 3px 0;
+  animation: accordion-open 0.35s ease forwards;
+}
+
+@keyframes accordion-open {
+  from { opacity: 0; max-height: 0; }
+  to   { opacity: 1; max-height: 800px; }
+}
+
 /* Print styles */
 @media print {
   /* Force system fonts to prevent garbled text in PDF export */
@@ -223,6 +278,19 @@ hr {
   /* Hide navigation */
   nav {
     display: none !important;
+  }
+
+  /* Accordion abstracts for print */
+  .talk-details[open] .talk-abstract {
+    animation: none !important;
+    max-height: none !important;
+  }
+  .talk-details summary::before {
+    display: none !important;
+  }
+  .talk-abstract {
+    border-left: 2px solid #999 !important;
+    background-color: #fff !important;
   }
 
   /* Registration button as plain link */
