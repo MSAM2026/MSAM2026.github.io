@@ -41,7 +41,7 @@ The nearest station is **Iryo Center (Medical Center)** on the Port Liner. The v
 - [Access to RIKEN Kobe Campus](https://www.kobe.riken.jp/en/access/) (airports, Shinkansen, etc.)
 - [IIB Building Location](https://www.kobe.riken.jp/en/access/east/)
 
-**Lunch information:** There are limited dining options near the venue. Lunch boxes will be provided for invited speakers. Other participants are encouraged to bring lunch or use nearby convenience stores.
+**Lunch information:** There are limited dining options near the venue. Lunch boxes will be provided for invited speakers. Other participants are encouraged to bring lunch or use nearby convenience stores. Please refer to the [nearby restaurant & convenience store map (PDF)](/files/food_map.pdf) for available options around the venue.
 
 ---
 
