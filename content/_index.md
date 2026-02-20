@@ -8,7 +8,7 @@ featured_image: "/images/header.jpg"
 
 Understanding the essence of life requires an integrated approach that spans the vast spatiotemporal scales from atoms and molecules to entire cells. This workshop aims to establish the foundational methodology for "AI-driven multiscale simulation" that harnesses recent advances in AI technology to bridge simulations across different hierarchical levels.
 
-Through this workshop, we seek to create a new research paradigm for achieving a truly integrated understanding of life phenomena from molecules to cells, establishing "AI-driven Multiscale Life Science" as a new academic field.
+Through this workshop, we seek to create a new research paradigm for achieving a truly integrated understanding of life phenomena from molecules to cells, establishing "AI-driven Multiscale Life Science".
 
 ### Key Topics
 
