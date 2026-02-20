@@ -24,7 +24,7 @@ Through this workshop, we seek to create a new research paradigm for achieving a
 
 Registration is now open. There is no registration fee.
 
-Both on-site and Zoom participation are available. On-site registration will close on **April 30, 2026 (Thu)** or **once capacity of the meeting room is reached (maximum 100 people)**, whichever comes first. Poster presentation slots (maximum 40) are also available upon registration.
+Both on-site and Zoom participation are available. On-site registration will close on **April 30, 2026 (Thu)** or **once capacity of the meeting room is reached (maximum 100 people)**, whichever comes first. Poster presentation slots (maximum 40) are also available upon registration. We welcome poster presentations from all participants, and particularly encourage early-career researchers and graduate students to present.
 
 <a href="https://forms.gle/fiLe78Gar7fFfDMC9" class="registration-button">Register Here</a>
 
