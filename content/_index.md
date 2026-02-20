@@ -36,7 +36,7 @@ Both on-site and Zoom participation are available. On-site registration will clo
 
 6-7-1 Minatojima-minamimachi, Chuo-ku, Kobe 650-0047, Japan
 
-The nearest station is **Iryo Center (Medical Center)** on the Port Liner. The venue is a short walk from the station.
+The nearest station is **Iryo Center (Medical Center)** on the Port Liner. From the station, follow the 2F pedestrian deck directly to the IIB building and enter through the 2F entrance (there is no 1F entrance).
 
 - [Access to RIKEN Kobe Campus](https://www.kobe.riken.jp/en/access/) (airports, Shinkansen, etc.)
 - [IIB Building Location](https://www.kobe.riken.jp/en/access/east/)
