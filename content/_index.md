@@ -24,7 +24,7 @@ Through this workshop, we seek to create a new research paradigm for achieving a
 
 Registration is now open. There is no registration fee.
 
-Both on-site and Zoom participation are available. On-site registration will close on **April 30, 2026 (Thu)** or once capacity is reached, whichever comes first. Poster presentation slots are also available upon registration.
+Both on-site and Zoom participation are available. On-site registration will close on **April 30, 2026 (Thu)** or **once capacity of the meeting room is reached (maximum 100 people)**, whichever comes first. Poster presentation slots (maximum 40) are also available upon registration.
 
 <a href="https://forms.gle/fiLe78Gar7fFfDMC9" class="registration-button">Register Here</a>
 
@@ -40,6 +40,8 @@ The nearest station is **Iryo Center (Medical Center)** on the Port Liner. The v
 
 - [Access to RIKEN Kobe Campus](https://www.kobe.riken.jp/en/access/) (airports, Shinkansen, etc.)
 - [IIB Building Location](https://www.kobe.riken.jp/en/access/east/)
+
+**Lunch information:** There are limited dining options near the venue. Lunch boxes will be provided for invited speakers. Other participants are encouraged to bring lunch or use nearby convenience stores.
 
 ---
 
@@ -166,15 +168,11 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 
 ---
 
-## Co-organized by
+## Co-hosted & Sponsors
 
-[RIKEN Pioneering Research Institute (PRI)](https://www.riken.jp/en/research/labs/pri/)
-
----
-
-## Sponsors
-
-[Kato Memorial Bioscience Foundation](https://www.katokinen.or.jp/)
+- [RIKEN Pioneering Research Institute (PRI)](https://www.riken.jp/en/research/labs/pri/)
+- [RIKEN Center for Computational Science (R-CCS)](https://www.r-ccs.riken.jp/en/)
+- [Kato Memorial Bioscience Foundation](https://www.katokinen.or.jp/)
 
 ---
 
