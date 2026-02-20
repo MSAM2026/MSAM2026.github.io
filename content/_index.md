@@ -188,5 +188,5 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-02-19: Program published (tentative), registration open
+- 2026-02-20: Program published (tentative), registration open
 - 2025-12-01: Website launched
