@@ -1,6 +1,6 @@
 ---
 title: "From Molecules to Cells: Multiscale Simulation and AI-Driven Modeling for Biomolecular Systems (MSAM)"
-description: "May 28-30, 2026 | RIKEN Center for Computational Science, Kobe, Japan"
+description: "May 28-30, 2026 | RIKEN — Kobe, Japan"
 featured_image: "/images/header.jpg"
 ---
 
