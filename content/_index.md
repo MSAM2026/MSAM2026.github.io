@@ -154,7 +154,7 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 
 ---
 
-## Organizers
+## Organizing Committee
 
 <div class="organizer-list">
 <div class="organizer"><span class="talk-speaker">Gregory Voth</span> <span class="talk-affiliation">(University of Chicago)</span></div>
@@ -166,7 +166,7 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 
 ---
 
-## Co-organizer
+## Co-organized by
 
 [RIKEN Pioneering Research Institute (PRI)](https://www.riken.jp/en/research/labs/pri/)
 
