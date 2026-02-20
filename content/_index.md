@@ -24,7 +24,7 @@ Through this workshop, we seek to create a new research paradigm for achieving a
 
 Registration is now open. There is no registration fee.
 
-Both on-site and Zoom participation are available. On-site registration will close once capacity is reached. Poster presentation slots are also available upon registration.
+Both on-site and Zoom participation are available. On-site registration will close on **April 30, 2026 (Thu)** or once capacity is reached, whichever comes first. Poster presentation slots are also available upon registration.
 
 <a href="https://forms.gle/fiLe78Gar7fFfDMC9" class="registration-button">Register Here</a>
 
@@ -163,6 +163,12 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 <div class="organizer"><span class="talk-speaker">Kei Moritsugu</span> <span class="talk-affiliation">(Osaka Metropolitan University)</span></div>
 <div class="organizer"><span class="talk-speaker">Yasuhiro Matsunaga</span> <span class="talk-affiliation">(Saitama University / RIKEN)</span></div>
 </div>
+
+---
+
+## Co-organizer
+
+[RIKEN Pioneering Research Institute (PRI)](https://www.riken.jp/en/research/labs/pri/)
 
 ---
 
