@@ -200,5 +200,6 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-03-01: Updated program with new talk titles and abstracts
 - 2026-02-20: Program published (tentative), registration open
 - 2025-12-01: Website launched
