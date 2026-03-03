@@ -79,6 +79,7 @@ h1.f2.f-subheadline-l {
 }
 
 .header-subtitle {
+  font-size: 1.8rem !important;
   font-weight: 700 !important;
   margin-top: 0 !important;
 }
@@ -89,6 +90,9 @@ h2.fw1.f5.f3-l {
 
 @media screen and (min-width: 60em) {
   h1.f2.f-subheadline-l {
+    font-size: 2.2rem !important;
+  }
+  .header-subtitle {
     font-size: 2.2rem !important;
   }
 }
