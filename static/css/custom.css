@@ -73,9 +73,13 @@ tr:nth-child(even) {
   background-color: rgba(0, 0, 0, 0.35) !important;
 }
 
-h1.f2.f-subheadline-l,
-.header-subtitle {
+h1.f2.f-subheadline-l {
   font-size: 1.8rem !important;
+  font-weight: 700 !important;
+}
+
+.header-subtitle {
+  font-size: 2.4rem !important;
   font-weight: 700 !important;
 }
 
@@ -84,9 +88,11 @@ h2.fw1.f5.f3-l {
 }
 
 @media screen and (min-width: 60em) {
-  h1.f2.f-subheadline-l,
-  .header-subtitle {
+  h1.f2.f-subheadline-l {
     font-size: 2.2rem !important;
+  }
+  .header-subtitle {
+    font-size: 3rem !important;
   }
 }
 
