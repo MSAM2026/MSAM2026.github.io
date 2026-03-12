@@ -160,7 +160,7 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 <details class="talk-details"><summary>Developing Temperature-Dependent Coarse-Grained Potentials for Simulating Phase Separation of Disordered Proteins</summary>
 <div class="talk-abstract">Thermoresponsive phase transitions of intrinsically disordered proteins (IDPs), including both upper critical solution temperature (UCST) and lower critical solution temperature (LCST) transitions, are widely observed in natural and synthetic sequences. However, most existing coarse-grained (CG) models with implicit solvents employ temperature-independent interactions and fail to capture solvation-driven LCST behavior. Here, we bridge the gap between atomistic hydrations and macroscopic phase separation. Leveraging extensive all-atom molecular dynamics simulations, we reveal a fundamental linear correlation between the temperature-dependent inter-residue interaction strengths and hydration free energies. Furthermore, we demonstrate that the heterotypic interactions at the molecular level can be well approximated by a simple combination of the homotypic interactions. We incorporate these thermodynamic insights into a physics-based framework, TEA (Temperature-dependent Energetics derived from hydrAtion), which introduces temperature-dependent potentials with minimal phenomenological fitting. The TEA-augmented CG models robustly distinguish UCST- and LCST-type sequences, successfully identify experimentally reported outliers, and accurately reproduce LCST-type single-chain compaction trends and phase diagrams of multiple disordered proteins. Our work provides a transferable and physically interpretable framework that bridges atomistic hydration thermodynamics and phase behavior of IDPs, enabling the simulation of thermoresponsive sequences with minimal phenomenological fitting.</div>
 </details></div>
-<div class="program-talk"><span class="talk-time">11:50 – 12:20</span> <span class="talk-speaker">Ana Damjanovic</span> <span class="talk-affiliation">(Johns Hopkins University)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">11:50 – 12:20</span> <span class="talk-speaker">Ana Damjanovic</span> <span class="talk-affiliation">(Johns Hopkins University)</span><br><span class="talk-title">From Atoms to Neuronal Spikes: A Multiscale Simulation Framework</span></div>
 <div class="program-break">12:20 – 12:25 Closing Remarks — Gregory Voth (University of Chicago)</div>
 </div>
 
@@ -196,6 +196,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-03-12: Added talk title for Ana Damjanovic
 - 2026-03-03: This workshop is now a RIKEN Symposium
 - 2026-03-01: Updated program with new talk titles and abstracts; updated program for Day 3
 - 2026-02-20: Program published (tentative), registration open
