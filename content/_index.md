@@ -196,7 +196,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-03-12: Added talk title for Ana Damjanovic
+- 2026-03-12: Updated program with new talk title
 - 2026-03-03: This workshop is now a RIKEN Symposium
 - 2026-03-01: Updated program with new talk titles and abstracts; updated program for Day 3
 - 2026-02-20: Program published (tentative), registration open
