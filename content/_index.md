@@ -43,7 +43,7 @@ The nearest station is **Iryo Center (Medical Center)** on the Port Liner. From 
 
 This workshop is a **hybrid event**. All talks will be streamed via Zoom for remote participants. The Zoom link will be shared with registered participants before the workshop.
 
-**Lunch information:** There are limited dining options near the venue. Lunch boxes will be provided for invited speakers. Other participants are encouraged to bring lunch or use nearby convenience stores. Please refer to the [nearby restaurant & convenience store map (PDF)](/files/food_map.pdf) for available options around the venue.
+**Lunch information:** There are limited dining options near the venue. Lunch boxes will be provided for invited speakers. Other participants are encouraged to bring lunch or use nearby convenience stores. Please refer to the [nearby restaurant & convenience store map (PDF)](/files/restaurant_map.pdf) for available options around the venue.
 
 ---
 
@@ -90,7 +90,7 @@ We use multiscale molecular dynamics simulations to explore these details at a r
 <details class="talk-details"><summary>Overcoming Biomolecular Modeling Challenges: AI Reconstruction and Accurate Simulation of IDPs and DNA-Binding Proteins</summary>
 <div class="talk-abstract">Simulating intrinsically disordered proteins (IDPs) and DNA-binding proteins is challenging because their highly flexible regions are systematically missing from experimental structures. To create complete, simulation-ready models, we introduce PATCHR, an AI-powered diffusion model that accurately inpaints these missing segments. However, even with complete structures, standard molecular dynamics (MD) force fields often overestimate non-bonded attractions, which artificially stalls physical movements during simulations. To resolve this, we present CUFIX-AMBER, an improved force field with carefully calibrated nonbonded and hydrogen bond parameters. Together, this toolkit bridges generative AI and physical simulation to successfully capture the true conformational ensembles of IDPs and the physical diffusion of proteins along DNA.</div>
 </details></div>
-<div class="program-talk"><span class="talk-time">16:10 – 16:40</span> <span class="talk-speaker">Kei Moritsugu</span> <span class="talk-affiliation">(Osaka Metropolitan University)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">16:10 – 16:40</span> <span class="talk-speaker">Kei Moritsugu</span> <span class="talk-affiliation">(Osaka Metropolitan University)</span><br><span class="talk-title">Experimental Data-driven Structural Ensemble Construction of Linear Diubiquitin Using Multi-scale Simulation and Deep Generative Modeling</span></div>
 <div class="program-break">16:40 – 17:00 Coffee Break</div>
 <div class="program-break">17:00 – 18:00 Free Discussion / Poster Preparation</div>
 <div class="program-break program-social">18:00 – 20:00 Banquet + Poster Session I (6F, IIB, buffet style)</div>
@@ -196,6 +196,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-04-23: Updated program with new talk title; updated nearby restaurant & convenience store map
 - 2026-03-12: Updated program with new talk title
 - 2026-03-03: This workshop is now a RIKEN Symposium
 - 2026-03-01: Updated program with new talk titles and abstracts; updated program for Day 3
