@@ -138,7 +138,7 @@ Our research employs hybrid quantum mechanical/molecular mechanical (QM/MM) meth
 In this workshop, I will present our recent findings utilizing QM/MM and CGMD simulations. I will also introduce our latest methodological developments, which include an artificial intelligence (AI)-accelerated transition state search tool and a rigid-body CGMD method specifically designed for large-scale protein assemblies.</div>
 </details></div>
 <div class="program-talk"><span class="talk-time">16:00 – 16:30</span> <span class="talk-speaker">Adrian Roitberg</span> <span class="talk-affiliation">(University of Florida)</span><br><span class="talk-title">Machine Learning Potentials: much faster than quantum, somewhat slower than classical</span></div>
-<div class="program-talk"><span class="talk-time">16:30 – 17:00</span> <span class="talk-speaker">Gianni De Fabritiis</span> <span class="talk-affiliation">(University Pompeu Fabra)</span>
+<div class="program-talk"><span class="talk-time">16:30 – 17:00</span> <span class="talk-speaker">Antonio Mirarchi</span> <span class="talk-affiliation">(University Pompeu Fabra)</span>
 <details class="talk-details"><summary>Transferable neural network potentials of protein thermodynamics</summary>
 <div class="talk-abstract">All-atom molecular simulations offer detailed insights into macromolecular phenomena, but their substantial computational cost hinders the exploration of complex biological processes. We introduce Advanced Machine-learning Atomic Representation Omni-force-field (AMARO), a new neural network potential (NNP) that combines an O(3)-equivariant message-passing neural network architecture, TensorNet, with a coarse-graining map that excludes hydrogen atoms. AMARO demonstrates the feasibility of training coarser NNP, without prior energy terms, to run stable protein dynamics with scalability and generalization capabilities.</div>
 </details></div>
@@ -196,7 +196,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-04-23: Updated program with new talk title; updated nearby restaurant & convenience store map
+- 2026-04-23: Updated program with new talk title and speaker change; updated nearby restaurant & convenience store map
 - 2026-03-12: Updated program with new talk title
 - 2026-03-03: This workshop is now a RIKEN Symposium
 - 2026-03-01: Updated program with new talk titles and abstracts; updated program for Day 3
