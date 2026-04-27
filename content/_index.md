@@ -22,11 +22,11 @@ Through this workshop, we seek to create a new research paradigm for achieving a
 
 ## Registration
 
-Registration is now open. There is no registration fee.
+**On-site registration is now closed** as the meeting room has reached its capacity. Poster presentation slots are also no longer available.
 
-Both on-site and Zoom participation are available. On-site registration will close on **April 30, 2026 (Thu)** or **once capacity of the meeting room is reached (maximum 100 people)**, whichever comes first. Poster presentation slots (maximum 40) are also available upon registration. We welcome poster presentations from all participants, and particularly encourage early-career researchers and graduate students to present.
+**Zoom (online) participation is still open** and free of charge. All talks will be streamed via Zoom; the connection details will be shared with registered participants before the workshop.
 
-<a href="https://forms.gle/fiLe78Gar7fFfDMC9" class="registration-button">Register Here</a>
+<a href="https://forms.gle/fiLe78Gar7fFfDMC9" class="registration-button">Register for Zoom Participation</a>
 
 ---
 
@@ -196,6 +196,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-04-27: Registration update — on-site full; Zoom participation still open
 - 2026-04-23: Updated program with new talk title and speaker change; updated nearby restaurant & convenience store map
 - 2026-03-12: Updated program with new talk title
 - 2026-03-03: This workshop is now a RIKEN Symposium
