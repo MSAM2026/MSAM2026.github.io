@@ -71,7 +71,7 @@ Click on a talk title (▶) to view the abstract
 <div class="program-break">11:00 – 11:20 Coffee Break</div>
 <div class="session-title">Session 2: Protein Design, Engineering & Drug Discovery <span class="session-chair">(Chair: TBA)</span></div>
 <div class="program-talk"><span class="talk-time">11:20 – 11:50</span> <span class="talk-speaker">Juyong Lee</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">TBA</span></div>
-<div class="program-talk"><span class="talk-time">11:50 – 12:20</span> <span class="talk-speaker">Takahiro Kosugi</span> <span class="talk-affiliation">(Institute for Molecular Science)</span>
+<div class="program-talk"><span class="talk-time">11:50 – 12:20</span> <span class="talk-speaker">Takahiro Kosugi</span> <span class="talk-affiliation">(Kanazawa University)</span>
 <details class="talk-details"><summary>Computational Protein Design for Rational Control of ATPases</summary>
 <div class="talk-abstract">ATP hydrolysis plays key roles in the functions of numerous proteins, including molecular motors and kinases. Therefore, the ability to control ATP hydrolysis and the resulting ATPase-dependent functions would not only deepen our understanding of biological systems but also enable their targeted manipulation. Recent advances in computational protein design have been substantial, and we recently achieved the de novo design of an ATPase (T. Kosugi, et al. Protein Sci. 2025). Building on this technology, we also introduced artificial allosteric sites into a rotary molecular motor, resulting in enhanced rotational speed (T. Kosugi, et al. Nat. Chem. 2023).</div>
 </details></div>
