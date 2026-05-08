@@ -112,7 +112,7 @@ microscopic simulation and experimental measurements.</div>
 </details></div>
 <div class="program-talk"><span class="talk-time">10:00 – 10:30</span> <span class="talk-speaker">Shoji Takada</span> <span class="talk-affiliation">(Kyoto University)</span><br><span class="talk-title">Protein-resolution modeling for cellular-scale simulations</span></div>
 <div class="program-break">10:30 – 10:50 Coffee Break</div>
-<div class="session-title">Session 5: Multiscale Methods & Simulation Infrastructure <span class="session-chair">(Chair: TBA)</span></div>
+<div class="session-title">Session 5: Multiscale Methods, Generative AI & Simulation Infrastructure <span class="session-chair">(Chair: TBA)</span></div>
 <div class="program-talk"><span class="talk-time">10:50 – 11:20</span> <span class="talk-speaker">Yuji Sugita</span> <span class="talk-affiliation">(RIKEN / University of Tokyo)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-talk"><span class="talk-time">11:20 – 11:50</span> <span class="talk-speaker">Bernard R. Brooks</span> <span class="talk-affiliation">(NIH)</span>
 <details class="talk-details"><summary>An overview of recent applications of machine learning and AI tools for problems in biophysics at the NIH</summary>
@@ -120,7 +120,7 @@ microscopic simulation and experimental measurements.</div>
 </details></div>
 <div class="program-talk"><span class="talk-time">11:50 – 12:20</span> <span class="talk-speaker">Abhishek Singharoy</span> <span class="talk-affiliation">(Arizona State University)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-talk"><span class="talk-time">12:20 – 12:50</span> <span class="talk-speaker">Modesto Orozco</span> <span class="talk-affiliation">(IRB Barcelona)</span><br><span class="talk-title">Nucleic Acids simulations from the electron to the chromosome</span></div>
-<div class="program-talk"><span class="talk-time">12:50 – 13:20</span> <span class="talk-speaker">Yasuhiro Matsunaga</span> <span class="talk-affiliation">(Saitama University / RIKEN)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">12:50 – 13:20</span> <span class="talk-speaker">Frank Noé</span> <span class="talk-affiliation">(Microsoft Research)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-break">13:20 – 14:30 Lunch</div>
 <div class="session-title">Session 6: From Quantum to ML <span class="session-chair">(Chair: Yuji Sugita)</span></div>
 <div class="program-talk"><span class="talk-time">14:30 – 15:00</span> <span class="talk-speaker">Darrin York</span> <span class="talk-affiliation">(Rutgers University)</span>
@@ -196,6 +196,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-08: Speaker change — Frank Noé (Microsoft Research) replaces Yasuhiro Matsunaga in the Day 2 12:50–13:20 slot; Session 5 title slightly updated to reflect the generative-AI focus
 - 2026-04-27: Registration update — on-site full; Zoom participation still open
 - 2026-04-23: Updated program with new talk title and speaker change; updated nearby restaurant & convenience store map
 - 2026-03-12: Updated program with new talk title
