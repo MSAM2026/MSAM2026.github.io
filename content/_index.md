@@ -58,7 +58,10 @@ Click on a talk title (▶) to view the abstract
 <div class="program-day">
 <div class="program-break">08:55 – 09:00 Opening Remarks — Yuji Sugita (RIKEN / University of Tokyo)</div>
 <div class="session-title">Session 1: AI/ML for Molecular Dynamics — Sampling, Kinetics & Transitions <span class="session-chair">(Chair: Yasuhiro Matsunaga)</span></div>
-<div class="program-talk"><span class="talk-time">09:00 – 09:30</span> <span class="talk-speaker">Pratyush Tiwary</span> <span class="talk-affiliation">(University of Maryland)</span><br><span class="talk-title">Efficient, explainable and extrapolative AI for biophysics</span></div>
+<div class="program-talk"><span class="talk-time">09:00 – 09:30</span> <span class="talk-speaker">Pratyush Tiwary</span> <span class="talk-affiliation">(University of Maryland)</span>
+<details class="talk-details"><summary>Efficient, explainable and extrapolative AI for biophysics</summary>
+<div class="talk-abstract">AI is now everywhere in chemistry, from structure prediction to molecule generation to automated synthesis. The excitement is real, but so is the unease about what is genuinely predictive and what is closer to impressive memorization. In this talk I will take a statistical physicist's perspective and use examples from my group's work to argue for cautious, but clear, enthusiasm for AI in chemistry and allied fields. I will show how we combine generative AI with statistical mechanics to learn Boltzmann weighted ensembles from limited training data, and then extrapolate across temperature, pressure, and other thermodynamic conditions reducing the need for explicit, expensive simulations or experiments. I will highlight the breadth of these methods through applications that include prediction of protein and RNA structural ensembles, and conformation selective drug discovery efforts aimed at Alzheimer's disease and hypertension.</div>
+</details></div>
 <div class="program-talk"><span class="talk-time">09:30 – 10:00</span> <span class="talk-speaker">Xuhui Huang</span> <span class="talk-affiliation">(University of Wisconsin-Madison)</span><br><span class="talk-title">Machine Learning Models for Non-Markovian Protein Dynamics</span></div>
 <div class="program-talk"><span class="talk-time">10:00 – 10:30</span> <span class="talk-speaker">Chris Chipot</span> <span class="talk-affiliation">(CNRS)</span>
 <details class="talk-details"><summary>From Atoms to Pathways: A Machine Learning Perspective on Molecular Transitions</summary>
@@ -137,7 +140,7 @@ microscopic simulation and experimental measurements.</div>
 Our research employs hybrid quantum mechanical/molecular mechanical (QM/MM) methods to clarify the catalytic mechanisms of enzymes, and coarse-grained molecular dynamics (CGMD) simulations to investigate the assembly mechanisms of proteins involved in liquid-liquid phase separation (LLPS) and the spontaneous formation of cytoskeletons.
 In this workshop, I will present our recent findings utilizing QM/MM and CGMD simulations. I will also introduce our latest methodological developments, which include an artificial intelligence (AI)-accelerated transition state search tool and a rigid-body CGMD method specifically designed for large-scale protein assemblies.</div>
 </details></div>
-<div class="program-talk"><span class="talk-time">16:00 – 16:30</span> <span class="talk-speaker">Adrian Roitberg</span> <span class="talk-affiliation">(University of Florida)</span><br><span class="talk-title">Machine Learning Potentials: much faster than quantum, somewhat slower than classical</span></div>
+<div class="program-talk"><span class="talk-time">16:00 – 16:30</span> <span class="talk-speaker">Adrian Roitberg</span> <span class="talk-affiliation">(University of Florida)</span><br><span class="talk-title">Machine Learning Potentials: much faster than quantum, somewhat slower than classical. Searching for the right spot.</span></div>
 <div class="program-talk"><span class="talk-time">16:30 – 17:00</span> <span class="talk-speaker">Antonio Mirarchi</span> <span class="talk-affiliation">(University Pompeu Fabra)</span>
 <details class="talk-details"><summary>Transferable neural network potentials of protein thermodynamics</summary>
 <div class="talk-abstract">All-atom molecular simulations offer detailed insights into macromolecular phenomena, but their substantial computational cost hinders the exploration of complex biological processes. We introduce Advanced Machine-learning Atomic Representation Omni-force-field (AMARO), a new neural network potential (NNP) that combines an O(3)-equivariant message-passing neural network architecture, TensorNet, with a coarse-graining map that excludes hydrogen atoms. AMARO demonstrates the feasibility of training coarser NNP, without prior energy terms, to run stable protein dynamics with scalability and generalization capabilities.</div>
@@ -196,7 +199,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-05-08: Updated program with a speaker change
+- 2026-05-08: Updated program with a speaker change; added an abstract and updated a talk title
 - 2026-04-27: Registration update — on-site full; Zoom participation still open
 - 2026-04-23: Updated program with new talk title and speaker change; updated nearby restaurant & convenience store map
 - 2026-03-12: Updated program with new talk title
