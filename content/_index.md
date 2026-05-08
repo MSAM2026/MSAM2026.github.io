@@ -196,7 +196,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-05-08: Speaker change — Frank Noé (Microsoft Research) replaces Yasuhiro Matsunaga in the Day 2 12:50–13:20 slot; Session 5 title slightly updated to reflect the generative-AI focus
+- 2026-05-08: Updated program with a speaker change
 - 2026-04-27: Registration update — on-site full; Zoom participation still open
 - 2026-04-23: Updated program with new talk title and speaker change; updated nearby restaurant & convenience store map
 - 2026-03-12: Updated program with new talk title
