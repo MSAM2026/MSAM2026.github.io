@@ -114,7 +114,8 @@ large complexes, thus leaving significant gaps in our ability to study molecular
 microscopic simulation and experimental measurements.</div>
 </details></div>
 <div class="program-talk"><span class="talk-time">10:00 – 10:30</span> <span class="talk-speaker">Shoji Takada</span> <span class="talk-affiliation">(Kyoto University)</span><br><span class="talk-title">Protein-resolution modeling for cellular-scale simulations</span></div>
-<div class="program-break">10:30 – 10:50 Coffee Break</div>
+<div class="program-break">10:30 – 10:35 Group Photo</div>
+<div class="program-break">10:35 – 10:50 Coffee Break</div>
 <div class="session-title">Session 5: Multiscale Methods, Generative AI & Simulation Infrastructure <span class="session-chair">(Chair: TBA)</span></div>
 <div class="program-talk"><span class="talk-time">10:50 – 11:20</span> <span class="talk-speaker">Yuji Sugita</span> <span class="talk-affiliation">(RIKEN / University of Tokyo)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-talk"><span class="talk-time">11:20 – 11:50</span> <span class="talk-speaker">Bernard R. Brooks</span> <span class="talk-affiliation">(NIH)</span>
