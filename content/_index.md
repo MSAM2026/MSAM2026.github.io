@@ -203,6 +203,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-13: Added Registration time slots to the program for all three days
 - 2026-05-08: Updated program with a speaker change; added an abstract and updated a talk title
 - 2026-04-27: Registration update — on-site full; Zoom participation still open
 - 2026-04-23: Updated program with new talk title and speaker change; updated nearby restaurant & convenience store map
