@@ -96,7 +96,7 @@ We use multiscale molecular dynamics simulations to explore these details at a r
 </details></div>
 <div class="program-talk"><span class="talk-time">16:10 – 16:40</span> <span class="talk-speaker">Kei Moritsugu</span> <span class="talk-affiliation">(Osaka Metropolitan University)</span><br><span class="talk-title">Experimental Data-driven Structural Ensemble Construction of Linear Diubiquitin Using Multi-scale Simulation and Deep Generative Modeling</span></div>
 <div class="program-break">16:40 – 17:00 Coffee Break</div>
-<div class="program-break">17:00 – 18:00 Free Discussion</div>
+<div class="program-break">17:00 – 18:00 Open Discussion</div>
 <div class="program-break program-social">18:00 – 20:00 Banquet + Poster Session I (6F, IIB, buffet style)</div>
 </div>
 
@@ -147,7 +147,7 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 <details class="talk-details"><summary>Transferable neural network potentials of protein thermodynamics</summary>
 <div class="talk-abstract">All-atom molecular simulations offer detailed insights into macromolecular phenomena, but their substantial computational cost hinders the exploration of complex biological processes. We introduce Advanced Machine-learning Atomic Representation Omni-force-field (AMARO), a new neural network potential (NNP) that combines an O(3)-equivariant message-passing neural network architecture, TensorNet, with a coarse-graining map that excludes hydrogen atoms. AMARO demonstrates the feasibility of training coarser NNP, without prior energy terms, to run stable protein dynamics with scalability and generalization capabilities.</div>
 </details></div>
-<div class="program-break">17:00 – 17:30 Coffee Break</div>
+<div class="program-break">17:00 – 17:30 Coffee Break / Open Discussion</div>
 <div class="program-break program-social">17:30 – 18:30 Poster Session II (6F, IIB)</div>
 </div>
 
