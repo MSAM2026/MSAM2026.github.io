@@ -56,6 +56,7 @@ Click on a talk title (▶) to view the abstract
 ### Day 1: May 28, 2026 (Thu)
 
 <div class="program-day">
+<div class="program-break">08:30 – 08:55 Registration</div>
 <div class="program-break">08:55 – 09:00 Opening Remarks — Yuji Sugita (RIKEN / University of Tokyo)</div>
 <div class="session-title">Session 1: AI/ML for Molecular Dynamics — Sampling, Kinetics & Transitions <span class="session-chair">(Chair: Yasuhiro Matsunaga)</span></div>
 <div class="program-talk"><span class="talk-time">09:00 – 09:30</span> <span class="talk-speaker">Pratyush Tiwary</span> <span class="talk-affiliation">(University of Maryland)</span>
@@ -102,6 +103,7 @@ We use multiscale molecular dynamics simulations to explore these details at a r
 ### Day 2: May 29, 2026 (Fri)
 
 <div class="program-day">
+<div class="program-break">08:30 – 09:00 Registration</div>
 <div class="session-title">Session 4: Multiscale Modeling & Coarse-Graining <span class="session-chair">(Chair: Florence Tama)</span></div>
 <div class="program-talk"><span class="talk-time">09:00 – 09:30</span> <span class="talk-speaker">Gregory Voth</span> <span class="talk-affiliation">(University of Chicago)</span>
 <details class="talk-details"><summary>Ongoing Advances in the Theory and Application of Coarse-graining</summary>
@@ -153,6 +155,7 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 ### Day 3: May 30, 2026 (Sat)
 
 <div class="program-day">
+<div class="program-break">08:30 – 09:00 Registration</div>
 <div class="session-title">Session 7: Integrative & Data-Driven Modeling <span class="session-chair">(Chair: Gregory Voth)</span></div>
 <div class="program-talk"><span class="talk-time">09:00 – 09:30</span> <span class="talk-speaker">Gerhard Hummer</span> <span class="talk-affiliation">(Max Planck Institute of Biophysics)</span><br><span class="talk-title">Learning from molecular simulations</span></div>
 <div class="program-talk"><span class="talk-time">09:30 – 10:00</span> <span class="talk-speaker">Florence Tama</span> <span class="talk-affiliation">(RIKEN / Nagoya University)</span><br><span class="talk-title">TBA</span></div>
