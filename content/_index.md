@@ -190,6 +190,8 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 
 **Removal:** After Poster Session II on Day 2 (please take your poster down by the end of May 29).
 
+Please leave your poster up for the full two days, regardless of your presentation day (Day 1 or Day 2).
+
 <div class="program-day">
 <div class="session-title">Poster Session I — Day 1 (May 28, 2026, 18:00–20:00, 6F, IIB)</div>
 <div class="program-talk"><span class="talk-time">P1</span> <span class="talk-speaker">Sandhya Tiwari</span> <span class="talk-affiliation">(IPR, Osaka University)</span><br><span class="talk-title">Uncovering the role of dimerization on dynamics and inhibitor stability in human versus Xenopus LTA4H</span></div>
