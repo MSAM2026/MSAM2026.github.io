@@ -186,7 +186,13 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 
 ## Poster Sessions
 
-Posters are split across two evening sessions. The numbering groups posters by topic so that adjacent boards cover related themes (drug discovery & disease, integrative modeling with experimental data, molecular machines, photoreceptors, coarse-graining, enhanced sampling, AI for protein structure / design / drug discovery, etc.). Some titles are still being collected and are shown as TBA.
+**Venue:** 6th Floor, IIB
+
+**Poster Session I:** Day 1 (May 28, 2026), 18:00–20:00
+**Poster Session II:** Day 2 (May 29, 2026), 17:30–18:30
+
+**Setup:** Day 1 morning (please put up your poster before lunch on May 28).
+**Removal:** After Poster Session II on Day 2 (please take your poster down by the end of May 29).
 
 ### Poster Session I — Day 1 (May 28, 2026, 18:00–20:00, 6F, IIB)
 
