@@ -47,7 +47,7 @@ This workshop is a **hybrid event**. All talks will be streamed via Zoom for rem
 
 ---
 
-## Program (Tentative)
+## Program
 
 Each talk: 25 min presentation + 5 min Q&A = 30 min
 
@@ -187,11 +187,11 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 ## Poster Sessions
 
 **Setup:** Day 1 morning (please put up your poster before lunch on May 28).
+
 **Removal:** After Poster Session II on Day 2 (please take your poster down by the end of May 29).
 
-### Poster Session I — Day 1 (May 28, 2026, 18:00–20:00, 6F, IIB)
-
 <div class="program-day">
+<div class="session-title">Poster Session I — Day 1 (May 28, 2026, 18:00–20:00, 6F, IIB)</div>
 <div class="program-talk"><span class="talk-time">P1</span> <span class="talk-speaker">Sandhya Tiwari</span> <span class="talk-affiliation">(IPR, Osaka University)</span><br><span class="talk-title">Uncovering the role of dimerization on dynamics and inhibitor stability in human versus Xenopus LTA4H</span></div>
 <div class="program-talk"><span class="talk-time">P2</span> <span class="talk-speaker">Yichao Wu</span> <span class="talk-affiliation">(Osaka University PRIMe)</span><br><span class="talk-title">Molecular Dynamics Simulation Study of the Pathogenic Mechanism Underlying the Ala711-Glu714 Deletion Mutation in the IGF1R/INSR Heterodimer</span></div>
 <div class="program-talk"><span class="talk-time">P3</span> <span class="talk-speaker">Shweta Kumari</span> <span class="talk-affiliation">(RIKEN)</span><br><span class="talk-title">Mutation-Dependent Changes in EGFR–Shc Recognition through Integrative Modeling, Molecular Dynamics Simulations, and Docking</span></div>
@@ -214,9 +214,8 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 <div class="program-talk"><span class="talk-time">P20</span> <span class="talk-speaker">Naonobu Kuribayashi</span> <span class="talk-affiliation">(Keio University)</span><br><span class="talk-title">TBA</span></div>
 </div>
 
-### Poster Session II — Day 2 (May 29, 2026, 17:30–18:30, 6F, IIB)
-
 <div class="program-day">
+<div class="session-title">Poster Session II — Day 2 (May 29, 2026, 17:30–18:30, 6F, IIB)</div>
 <div class="program-talk"><span class="talk-time">P21</span> <span class="talk-speaker">Yosuke Teshirogi</span> <span class="talk-affiliation">(The University of Tokyo)</span><br><span class="talk-title">CGRig: a rigid-body protein model with residue-level interaction sites for long-time and large-scale protein assembly simulation</span></div>
 <div class="program-talk"><span class="talk-time">P22</span> <span class="talk-speaker">Tarun Maity</span> <span class="talk-affiliation">(RIKEN PRI)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-talk"><span class="talk-time">P23</span> <span class="talk-speaker">Diego Ugarte La Torre</span> <span class="talk-affiliation">(The University of Tokyo)</span><br><span class="talk-title">CGBack: Recovering atomistic detail from coarse-grained protein structures using diffusion models</span></div>
