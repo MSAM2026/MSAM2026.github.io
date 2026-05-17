@@ -221,7 +221,7 @@ Please leave your poster up for the full two days, regardless of your presentati
 <div class="program-day">
 <div class="session-title">Poster Session II — Day 2 (May 29, 2026, 17:30–18:30, 6F, IIB)</div>
 <div class="program-talk"><span class="talk-time">P2</span> <span class="talk-speaker">Yosuke Teshirogi</span> <span class="talk-affiliation">(The University of Tokyo)</span><br><span class="talk-title">CGRig: a rigid-body protein model with residue-level interaction sites for long-time and large-scale protein assembly simulation</span></div>
-<div class="program-talk"><span class="talk-time">P4</span> <span class="talk-speaker">Tarun Maity</span> <span class="talk-affiliation">(RIKEN PRI)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">P4</span> <span class="talk-speaker">Tarun Maity</span> <span class="talk-affiliation">(RIKEN PRI)</span><br><span class="talk-title">Microscopic Mechanics of Autonomous Self-Healing in AP-Ethylene Copolymers</span></div>
 <div class="program-talk"><span class="talk-time">P6</span> <span class="talk-speaker">Diego Ugarte La Torre</span> <span class="talk-affiliation">(The University of Tokyo)</span><br><span class="talk-title">CGBack: Recovering atomistic detail from coarse-grained protein structures using diffusion models</span></div>
 <div class="program-talk"><span class="talk-time">P8</span> <span class="talk-speaker">Jaemin Yoo</span> <span class="talk-affiliation">(Sungkyunkwan University)</span><br><span class="talk-title">Balancing Protein–Nucleic Acid Interactions in ff19SB-OPC through Pair-Specific Lennard-Jones Corrections</span></div>
 <div class="program-talk"><span class="talk-time">P10</span> <span class="talk-speaker">Mohamed Marzouk Sobaih</span> <span class="talk-affiliation">(Ain Shams University)</span><br><span class="talk-title">Molecular Dynamics and Free-Energy Analyses Reveal Glycan-Driven Destabilization of the IGF Ternary Complex by the D440N ALS Mutation</span></div>
@@ -273,7 +273,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-05-17: Added two poster titles
+- 2026-05-17: Added three poster titles
 - 2026-05-16: Renumbered poster sessions (odd = Day 1, even = Day 2) to reduce crowding at adjacent boards
 - 2026-05-15: Added poster session program for Day 1 and Day 2
 - 2026-05-15: Updated program with new talk titles and abstracts
