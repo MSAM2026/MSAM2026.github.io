@@ -224,9 +224,9 @@ Please leave your poster up for the full two days, regardless of your presentati
 <div class="program-talk"><span class="talk-time">P4</span> <span class="talk-speaker">Tarun Maity</span> <span class="talk-affiliation">(RIKEN PRI)</span><br><span class="talk-title">TBA</span></div>
 <div class="program-talk"><span class="talk-time">P6</span> <span class="talk-speaker">Diego Ugarte La Torre</span> <span class="talk-affiliation">(The University of Tokyo)</span><br><span class="talk-title">CGBack: Recovering atomistic detail from coarse-grained protein structures using diffusion models</span></div>
 <div class="program-talk"><span class="talk-time">P8</span> <span class="talk-speaker">Jaemin Yoo</span> <span class="talk-affiliation">(Sungkyunkwan University)</span><br><span class="talk-title">Balancing Protein–Nucleic Acid Interactions in ff19SB-OPC through Pair-Specific Lennard-Jones Corrections</span></div>
-<div class="program-talk"><span class="talk-time">P10</span> <span class="talk-speaker">Mohamed Marzouk Sobaih</span> <span class="talk-affiliation">(Ain Shams University)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">P10</span> <span class="talk-speaker">Mohamed Marzouk Sobaih</span> <span class="talk-affiliation">(Ain Shams University)</span><br><span class="talk-title">Molecular Dynamics and Free-Energy Analyses Reveal Glycan-Driven Destabilization of the IGF Ternary Complex by the D440N ALS Mutation</span></div>
 <div class="program-talk"><span class="talk-time">P12</span> <span class="talk-speaker">Jun Ohnuki</span> <span class="talk-affiliation">(Institute for Molecular Science)</span><br><span class="talk-title">Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model</span></div>
-<div class="program-talk"><span class="talk-time">P14</span> <span class="talk-speaker">Sosuke Asano</span> <span class="talk-affiliation">(Keio University)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">P14</span> <span class="talk-speaker">Sosuke Asano</span> <span class="talk-affiliation">(Keio University)</span><br><span class="talk-title">An Unsupervised deep learning for identifying characteristic amino acid residues from molecular dynamics simulations of similar systems</span></div>
 <div class="program-talk"><span class="talk-time">P16</span> <span class="talk-speaker">Dongwoo Kim</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">A2Holo: Dual-Stream Flow Matching of 3D Structure and Protein Language Model for Conformational Transition Prediction</span></div>
 <div class="program-talk"><span class="talk-time">P18</span> <span class="talk-speaker">Cheng Tan</span> <span class="talk-affiliation">(RIKEN R-CCS)</span><br><span class="talk-title">Dual-Scale Mechanism of Condensate Regulation: Nonspecific Electrostatics Paired with Specific Helical Recognition in Hero11-TDP43</span></div>
 <div class="program-talk"><span class="talk-time">P20</span> <span class="talk-speaker">Jinyoung Byun</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">Steering Diffusion-based Co-folding model with Physics: Feynman–Kac Sampling under Amber Force-Field Constraints</span></div>
@@ -273,6 +273,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-17: Added poster titles for P10 (Mohamed Marzouk Sobaih) and P14 (Sosuke Asano)
 - 2026-05-16: Renumbered poster sessions (odd = Day 1, even = Day 2) to reduce crowding at adjacent boards
 - 2026-05-15: Added poster session program for Day 1 and Day 2
 - 2026-05-15: Updated program with new talk titles and abstracts
