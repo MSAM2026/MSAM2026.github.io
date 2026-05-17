@@ -273,7 +273,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-05-17: Added poster titles for P10 (Mohamed Marzouk Sobaih) and P14 (Sosuke Asano)
+- 2026-05-17: Added two poster titles
 - 2026-05-16: Renumbered poster sessions (odd = Day 1, even = Day 2) to reduce crowding at adjacent boards
 - 2026-05-15: Added poster session program for Day 1 and Day 2
 - 2026-05-15: Updated program with new talk titles and abstracts
