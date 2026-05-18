@@ -215,7 +215,7 @@ Please leave your poster up for the full two days, regardless of your presentati
 <div class="program-talk"><span class="talk-time">P33</span> <span class="talk-speaker">Martin Byzov</span> <span class="talk-affiliation">(Nagoya University)</span><br><span class="talk-title">Thermal Modulation of NOMPC Gating Springs in Aedes aegypti: Insights from Comparative Modeling and MD Simulations</span></div>
 <div class="program-talk"><span class="talk-time">P35</span> <span class="talk-speaker">Takehito Seki</span> <span class="talk-affiliation">(Institute for Molecular Science)</span><br><span class="talk-title">Conformational Dynamics of Na⁺-Pumping NADH–Quinone Oxidoreductase during Na⁺ Translocation from AlphaFold-Facilitated Markov State Modeling</span></div>
 <div class="program-talk"><span class="talk-time">P37</span> <span class="talk-speaker">Hideto Tsubouchi</span> <span class="talk-affiliation">(The University of Tokyo)</span><br><span class="talk-title">TBA</span></div>
-<div class="program-talk"><span class="talk-time">P39</span> <span class="talk-speaker">Kenta Shobu</span> <span class="talk-affiliation">(Keio University)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">P39</span> <span class="talk-speaker">Kenta Shobu</span> <span class="talk-affiliation">(Keio University)</span><br><span class="talk-title">Molecular insights into the coupling between retinal isomerization and protein dynamics in ChR2 mutants</span></div>
 </div>
 
 <div class="program-day">
@@ -273,7 +273,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-05-18: Added a new invited talk title
+- 2026-05-18: Added a new invited talk title and a poster title
 - 2026-05-17: Added three poster titles
 - 2026-05-16: Renumbered poster sessions (odd = Day 1, even = Day 2) to reduce crowding at adjacent boards
 - 2026-05-15: Added poster session program for Day 1 and Day 2
