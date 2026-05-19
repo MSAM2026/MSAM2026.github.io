@@ -45,6 +45,13 @@ This workshop is a **hybrid event**. All talks will be streamed via Zoom for rem
 
 **Lunch information:** There are limited dining options near the venue. Lunch boxes will be provided for invited speakers. Other participants are encouraged to bring lunch or use nearby convenience stores. Please refer to the [nearby restaurant & convenience store map (PDF)](/files/restaurant_map.pdf) for available options around the venue.
 
+### Exploring Kobe
+
+For participants interested in exploring Kobe during their stay, the following sites provide useful local information:
+
+- [Kobe Roman Kikou (Hyogo Prefecture Tourism Guide)](https://pr.hyojito.co.jp/kobe-roman-kikou-en/)
+- [Ichiban Kobe — Local Information](https://ichibankobe.com/localinfomation/)
+
 ---
 
 ## Program
@@ -273,6 +280,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-20: Added local tourist information for Kobe
 - 2026-05-19: Added a poster title
 - 2026-05-18: Added a new invited talk title and a poster title
 - 2026-05-17: Added three poster titles
