@@ -230,7 +230,7 @@ Please leave your poster up for the full two days, regardless of your presentati
 <div class="program-talk"><span class="talk-time">P16</span> <span class="talk-speaker">Dongwoo Kim</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">A2Holo: Dual-Stream Flow Matching of 3D Structure and Protein Language Model for Conformational Transition Prediction</span></div>
 <div class="program-talk"><span class="talk-time">P18</span> <span class="talk-speaker">Cheng Tan</span> <span class="talk-affiliation">(RIKEN R-CCS)</span><br><span class="talk-title">Dual-Scale Mechanism of Condensate Regulation: Nonspecific Electrostatics Paired with Specific Helical Recognition in Hero11-TDP43</span></div>
 <div class="program-talk"><span class="talk-time">P20</span> <span class="talk-speaker">Jinyoung Byun</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">Steering Diffusion-based Co-folding model with Physics: Feynman–Kac Sampling under Amber Force-Field Constraints</span></div>
-<div class="program-talk"><span class="talk-time">P22</span> <span class="talk-speaker">Elisa Rioual</span> <span class="talk-affiliation">(RIKEN PRI)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">P22</span> <span class="talk-speaker">Elisa Rioual</span> <span class="talk-affiliation">(RIKEN PRI)</span><br><span class="talk-title">When In-Cell NMR Meets MD: Insights into GB1 in Crowded Environments</span></div>
 <div class="program-talk"><span class="talk-time">P24</span> <span class="talk-speaker">Yoobeen Shin</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">Quality-Aware Structural Tokenization for Protein Backbone Representation and Generation</span></div>
 <div class="program-talk"><span class="talk-time">P26</span> <span class="talk-speaker">Haelyn Kim</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">FoldMapper: Inverse Folding via Structure-Derived Evolutionary Profiles and Cascaded Graph Encoding</span></div>
 <div class="program-talk"><span class="talk-time">P28</span> <span class="talk-speaker">Ben Cree</span> <span class="talk-affiliation">(RIKEN R-CCS)</span><br><span class="talk-title">Automated de novo Design of Nanographene inhibitors for Cryptochromes</span></div>
@@ -273,6 +273,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-19: Added a poster title
 - 2026-05-18: Added a new invited talk title and a poster title
 - 2026-05-17: Added three poster titles
 - 2026-05-16: Renumbered poster sessions (odd = Day 1, even = Day 2) to reduce crowding at adjacent boards
