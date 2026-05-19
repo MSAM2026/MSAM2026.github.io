@@ -45,13 +45,6 @@ This workshop is a **hybrid event**. All talks will be streamed via Zoom for rem
 
 **Lunch information:** There are limited dining options near the venue. Lunch boxes will be provided for invited speakers. Other participants are encouraged to bring lunch or use nearby convenience stores. Please refer to the [nearby restaurant & convenience store map (PDF)](/files/restaurant_map.pdf) for available options around the venue.
 
-### Exploring Kobe
-
-For participants interested in exploring Kobe during their stay, the following sites provide useful local information:
-
-- [Kobe Roman Kikou (Hyogo Prefecture Tourism Guide)](https://pr.hyojito.co.jp/kobe-roman-kikou-en/)
-- [Ichiban Kobe — Local Information](https://ichibankobe.com/localinfomation/)
-
 ---
 
 ## Program
@@ -247,6 +240,15 @@ Please leave your poster up for the full two days, regardless of your presentati
 <div class="program-talk"><span class="talk-time">P36</span> <span class="talk-speaker">Shintaroh Kubo</span> <span class="talk-affiliation">(RIKEN)</span><br><span class="talk-title">Computational investigation of how post translational modifications alter microtubule structure and charge to modulate dynein-2</span></div>
 <div class="program-talk"><span class="talk-time">P38</span> <span class="talk-speaker">Naonobu Kuribayashi</span> <span class="talk-affiliation">(Keio University)</span><br><span class="talk-title">TBA</span></div>
 </div>
+
+---
+
+## Exploring Kobe
+
+For participants interested in exploring Kobe during their stay, the following sites provide useful local information:
+
+- [Kobe Roman Kikou (Hyogo Prefecture Tourism Guide)](https://pr.hyojito.co.jp/kobe-roman-kikou-en/)
+- [Ichiban Kobe — Local Information](https://ichibankobe.com/localinfomation/)
 
 ---
 
