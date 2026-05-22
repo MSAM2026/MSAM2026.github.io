@@ -56,7 +56,7 @@ Click on a talk title (▶) to view the abstract
 ### Day 1: May 28, 2026 (Thu)
 
 <div class="program-day">
-<div class="program-break">08:30 – 08:55 Registration</div>
+<div class="program-break">08:30 – 08:55 Registration (2F, IIB)</div>
 <div class="program-break">08:55 – 09:00 Opening Remarks — Yuji Sugita (RIKEN / University of Tokyo)</div>
 <div class="session-title">Session 1: AI/ML for Molecular Dynamics — Sampling, Kinetics & Transitions <span class="session-chair">(Chair: Yasuhiro Matsunaga)</span></div>
 <div class="program-talk"><span class="talk-time">09:00 – 09:30</span> <span class="talk-speaker">Pratyush Tiwary</span> <span class="talk-affiliation">(University of Maryland)</span>
@@ -109,7 +109,7 @@ We use multiscale molecular dynamics simulations to explore these details at a r
 ### Day 2: May 29, 2026 (Fri)
 
 <div class="program-day">
-<div class="program-break">08:30 – 09:00 Registration</div>
+<div class="program-break">08:30 – 09:00 Registration (2F, IIB)</div>
 <div class="session-title">Session 4: Multiscale Modeling & Coarse-Graining <span class="session-chair">(Chair: Florence Tama)</span></div>
 <div class="program-talk"><span class="talk-time">09:00 – 09:30</span> <span class="talk-speaker">Gregory Voth</span> <span class="talk-affiliation">(University of Chicago)</span>
 <details class="talk-details"><summary>Ongoing Advances in the Theory and Application of Coarse-graining</summary>
@@ -160,7 +160,7 @@ In this workshop, I will present our recent findings utilizing QM/MM and CGMD si
 ### Day 3: May 30, 2026 (Sat)
 
 <div class="program-day">
-<div class="program-break">08:30 – 09:00 Registration</div>
+<div class="program-break">08:30 – 09:00 Registration (2F, IIB)</div>
 <div class="session-title">Session 7: Integrative & Data-Driven Modeling <span class="session-chair">(Chair: Gregory Voth)</span></div>
 <div class="program-talk"><span class="talk-time">09:00 – 09:30</span> <span class="talk-speaker">Gerhard Hummer</span> <span class="talk-affiliation">(Max Planck Institute of Biophysics)</span><br><span class="talk-title">Learning from molecular simulations</span></div>
 <div class="program-talk"><span class="talk-time">09:30 – 10:00</span> <span class="talk-speaker">Florence Tama</span> <span class="talk-affiliation">(RIKEN / Nagoya University)</span><br><span class="talk-title">TBA</span></div>
@@ -235,7 +235,7 @@ Please leave your poster up for the full two days, regardless of your presentati
 <div class="program-talk"><span class="talk-time">P26</span> <span class="talk-speaker">Haelyn Kim</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">FoldMapper: Inverse Folding via Structure-Derived Evolutionary Profiles and Cascaded Graph Encoding</span></div>
 <div class="program-talk"><span class="talk-time">P28</span> <span class="talk-speaker">Ben Cree</span> <span class="talk-affiliation">(RIKEN R-CCS)</span><br><span class="talk-title">Automated de novo Design of Nanographene inhibitors for Cryptochromes</span></div>
 <div class="program-talk"><span class="talk-time">P30</span> <span class="talk-speaker">Jinung Song</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">Design of self-assembling protein nanoparticle using computational methods</span></div>
-<div class="program-talk"><span class="talk-time">P32</span> <span class="talk-speaker">Tomoshi Kameda</span> <span class="talk-affiliation">(AIST)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">P32</span> <span class="talk-speaker">Tomoshi Kameda</span> <span class="talk-affiliation">(AIST)</span><br><span class="talk-title">Predicting the evolution of the covid-19 using steered MD simulation and machine learning</span></div>
 <div class="program-talk"><span class="talk-time">P34</span> <span class="talk-speaker">Csongor Németh</span> <span class="talk-affiliation">(Vrije Universiteit Amsterdam)</span><br><span class="talk-title">De Novo Protein Design of Chemokine Binders Targeting CXCL12 and CCL25</span></div>
 <div class="program-talk"><span class="talk-time">P36</span> <span class="talk-speaker">Shintaroh Kubo</span> <span class="talk-affiliation">(RIKEN)</span><br><span class="talk-title">Computational investigation of how post translational modifications alter microtubule structure and charge to modulate dynein-2</span></div>
 <div class="program-talk"><span class="talk-time">P38</span> <span class="talk-speaker">Naonobu Kuribayashi</span> <span class="talk-affiliation">(Keio University)</span><br><span class="talk-title">TBA</span></div>
@@ -282,6 +282,8 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-22: Added a poster title
+- 2026-05-21: Noted that on-site registration desk is on 2F of IIB for all three days
 - 2026-05-20: Added local tourist information for Kobe
 - 2026-05-19: Added a poster title
 - 2026-05-18: Added a new invited talk title and a poster title
