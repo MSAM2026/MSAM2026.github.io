@@ -22,11 +22,7 @@ Through this workshop, we seek to create a new research paradigm for achieving a
 
 ## Registration
 
-**On-site registration is now closed** as the meeting room has reached its capacity. Poster presentation slots are also no longer available.
-
-**Zoom (online) participation is still open** and free of charge. The registration deadline is **May 23, 2026 (Sat)**. All talks will be streamed via Zoom; the connection details will be shared with registered participants before the workshop.
-
-<a href="https://forms.gle/fiLe78Gar7fFfDMC9" class="registration-button">Register for Zoom Participation</a>
+Registration is now closed. Both on-site and Zoom (online) registration have reached their deadlines. Zoom connection details will be shared with registered participants before the workshop.
 
 ---
 
@@ -282,6 +278,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-24: Registration closed (Zoom registration deadline reached)
 - 2026-05-22: Added a poster title
 - 2026-05-21: Noted that on-site registration desk is on 2F of IIB for all three days
 - 2026-05-20: Added local tourist information for Kobe
