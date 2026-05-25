@@ -70,7 +70,10 @@ Click on a talk title (▶) to view the abstract
 </details></div>
 <div class="program-break">11:00 – 11:20 Coffee Break</div>
 <div class="session-title">Session 2: Protein Design, Engineering & Drug Discovery <span class="session-chair">(Chair: TBA)</span></div>
-<div class="program-talk"><span class="talk-time">11:20 – 11:50</span> <span class="talk-speaker">Juyong Lee</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">11:20 – 11:50</span> <span class="talk-speaker">Juyong Lee</span> <span class="talk-affiliation">(Seoul National University)</span>
+<details class="talk-details"><summary>Integrating AI and Physics-Based Biomolecular Modeling for Multi-Modality Drug Discovery</summary>
+<div class="talk-abstract">The integration of artificial intelligence (AI) and molecular dynamics (MD) simulations is rapidly transforming the drug discovery process. Recent advancements demonstrate that state-of-the-art computational techniques are accelerating the discovery of drug candidates across various modalities, including small molecules, peptides, and antibodies. This presentation will explore recent progress in generative biomolecular modeling AI models applied to drug screening and candidate generation, with several case studies illustrating their practical applications. First, the new generative AI methods for protein design, protein sequence generation methods. The new methods show superior performance to existing inverse folding methods, especially for antibody CDR loop generation. Second, we will discuss the development of novel peptides for GLP1R activation, which is a target for treating obesity. Lastly, we will discuss the development of a novel artificial antigen-based RSV vaccine candidate using protein generative models. In all three cases, the success rate for identifying novel candidates was significantly higher compared to traditional high-throughput screening approaches, underscoring the practical advantages of AI-driven strategies in modern drug discovery.</div>
+</details></div>
 <div class="program-talk"><span class="talk-time">11:50 – 12:20</span> <span class="talk-speaker">Takahiro Kosugi</span> <span class="talk-affiliation">(Kanazawa University)</span>
 <details class="talk-details"><summary>Computational Protein Design for Rational Control of ATPases</summary>
 <div class="talk-abstract">ATP hydrolysis plays key roles in the functions of numerous proteins, including molecular motors and kinases. Therefore, the ability to control ATP hydrolysis and the resulting ATPase-dependent functions would not only deepen our understanding of biological systems but also enable their targeted manipulation. Recent advances in computational protein design have been substantial, and we recently achieved the de novo design of an ATPase (T. Kosugi, et al. Protein Sci. 2025). Building on this technology, we also introduced artificial allosteric sites into a rotary molecular motor, resulting in enhanced rotational speed (T. Kosugi, et al. Nat. Chem. 2023).</div>
@@ -278,6 +281,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-25: Added a new invited talk title and abstract
 - 2026-05-24: Registration closed (Zoom registration deadline reached)
 - 2026-05-22: Added a poster title
 - 2026-05-21: Noted that on-site registration desk is on 2F of IIB for all three days
