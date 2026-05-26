@@ -196,7 +196,7 @@ Please leave your poster up for the full two days, regardless of your presentati
 <div class="program-day">
 <div class="session-title">Poster Session I — Day 1 (May 28, 2026, 18:00–20:00, 6F, IIB)</div>
 <div class="program-talk"><span class="talk-time">P1</span> <span class="talk-speaker">Sandhya Tiwari</span> <span class="talk-affiliation">(IPR, Osaka University)</span><br><span class="talk-title">Uncovering the role of dimerization on dynamics and inhibitor stability in human versus Xenopus LTA4H</span></div>
-<div class="program-talk"><span class="talk-time">P3</span> <span class="talk-speaker">Hobeom Kim</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">GA-Score: Learning the Physics of Molecular Interactions for affinity prediction</span></div>
+<div class="program-talk"><span class="talk-time">P3</span> <span class="talk-speaker">Hobeom Kim</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">GA-Score: Learning the Physics of Molecular Interactions for scoring</span></div>
 <div class="program-talk"><span class="talk-time">P5</span> <span class="talk-speaker">Yichao Wu</span> <span class="talk-affiliation">(Osaka University PRIMe)</span><br><span class="talk-title">Molecular Dynamics Simulation Study of the Pathogenic Mechanism Underlying the Ala711-Glu714 Deletion Mutation in the IGF1R/INSR Heterodimer</span></div>
 <div class="program-talk"><span class="talk-time">P7</span> <span class="talk-speaker">Shweta Kumari</span> <span class="talk-affiliation">(RIKEN)</span><br><span class="talk-title">Mutation-Dependent Changes in EGFR–Shc Recognition through Integrative Modeling, Molecular Dynamics Simulations, and Docking</span></div>
 <div class="program-talk"><span class="talk-time">P9</span> <span class="talk-speaker">Minji Kim</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">GateMol-BBB: A gated Multimodal gMLP Framework for Blood-Brain Barrier permeability prediction</span></div>
@@ -281,7 +281,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-05-26: Updated a poster title
+- 2026-05-26: Updated poster titles
 - 2026-05-25: Assigned session chairs and added a new invited talk title and abstract
 - 2026-05-24: Registration closed (Zoom registration deadline reached)
 - 2026-05-22: Added a poster title
