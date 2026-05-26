@@ -281,6 +281,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-26: Updated a poster title
 - 2026-05-25: Assigned session chairs and added a new invited talk title and abstract
 - 2026-05-24: Registration closed (Zoom registration deadline reached)
 - 2026-05-22: Added a poster title
