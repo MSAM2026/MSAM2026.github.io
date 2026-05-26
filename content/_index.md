@@ -78,7 +78,10 @@ Click on a talk title (▶) to view the abstract
 <details class="talk-details"><summary>Computational Protein Design for Rational Control of ATPases</summary>
 <div class="talk-abstract">ATP hydrolysis plays key roles in the functions of numerous proteins, including molecular motors and kinases. Therefore, the ability to control ATP hydrolysis and the resulting ATPase-dependent functions would not only deepen our understanding of biological systems but also enable their targeted manipulation. Recent advances in computational protein design have been substantial, and we recently achieved the de novo design of an ATPase (T. Kosugi, et al. Protein Sci. 2025). Building on this technology, we also introduced artificial allosteric sites into a rotary molecular motor, resulting in enhanced rotational speed (T. Kosugi, et al. Nat. Chem. 2023).</div>
 </details></div>
-<div class="program-talk"><span class="talk-time">12:20 – 12:50</span> <span class="talk-speaker">Jonathan Essex</span> <span class="talk-affiliation">(University of Southampton)</span><br><span class="talk-title">Engineering antibody structure and function by multiscale simulations</span></div>
+<div class="program-talk"><span class="talk-time">12:20 – 12:50</span> <span class="talk-speaker">Jonathan Essex</span> <span class="talk-affiliation">(University of Southampton)</span>
+<details class="talk-details"><summary>Engineering antibody structure and function by multiscale simulations</summary>
+<div class="talk-abstract">Antibodies are becoming increasingly important as therapeutics, with roughly one third of drugs approved by the FDA in 2024 being biologics. Being able to rationally engineer antibodies to control their function would clearly be a powerful tool. In this presentation, I describe the combination of multiscale simulation with low-resolution small-angle X-ray scattering, together with corroborating crystal structure and assay data, to rationally engineer antibodies to deliver a controlled immunostimulatory response. I will show that crystal structures often poorly reflect solution phase behaviour, and that in these particular antibody systems, protein dynamics has a critical role in determining biological function.</div>
+</details></div>
 <div class="program-break">12:50 – 14:10 Lunch</div>
 <div class="session-title">Session 3: Membrane Proteins, Ion Channels & Molecular Machines <span class="session-chair">(Chair: Takahiro Kosugi)</span></div>
 <div class="program-talk"><span class="talk-time">14:10 – 14:40</span> <span class="talk-speaker">Syma Khalid</span> <span class="talk-affiliation">(University of Oxford)</span>
@@ -281,7 +284,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
-- 2026-05-26: Updated poster titles
+- 2026-05-26: Updated poster titles; added an invited talk abstract
 - 2026-05-25: Assigned session chairs and added a new invited talk title and abstract
 - 2026-05-24: Registration closed (Zoom registration deadline reached)
 - 2026-05-22: Added a poster title
