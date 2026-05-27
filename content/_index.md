@@ -207,7 +207,7 @@ Please leave your poster up for the full two days, regardless of your presentati
 <div class="program-talk"><span class="talk-time">P13</span> <span class="talk-speaker">Myunghyun Jang</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">EquiFlex: Equivariant flow matching with physics-aware lossses for flexible protein-ligand complex struture prediction</span></div>
 <div class="program-talk"><span class="talk-time">P15</span> <span class="talk-speaker">Jaeoh Shin</span> <span class="talk-affiliation">(KIAS)</span><br><span class="talk-title">Evaluating BioEmu-Generated Kinase Ensembles Reveals Structure Selection as the Virtual Screening Bottleneck</span></div>
 <div class="program-talk"><span class="talk-time">P17</span> <span class="talk-speaker">Ikhyeong Jun</span> <span class="talk-affiliation">(Seoul National University)</span><br><span class="talk-title">Agentic AI-based automation of structure-based drug discovery workflow</span></div>
-<div class="program-talk"><span class="talk-time">P19</span> <span class="talk-speaker">Sujith Sritharan</span> <span class="talk-affiliation">(RIKEN R-CCS)</span><br><span class="talk-title">TBA</span></div>
+<div class="program-talk"><span class="talk-time">P19</span> <span class="talk-speaker">Sujith Sritharan</span> <span class="talk-affiliation">(RIKEN R-CCS)</span><br><span class="talk-title">Cryo-EM and Conformational Heterogeneity of the Nucleosome</span></div>
 <div class="program-talk"><span class="talk-time">P21</span> <span class="talk-speaker">Tingting Wang</span> <span class="talk-affiliation">(RIKEN R-CCS)</span><br><span class="talk-title">Cryo-EM and MDSPACE Reveal Continuous Conformational Heterogeneity in Glutamate Dehydrogenase</span></div>
 <div class="program-talk"><span class="talk-time">P23</span> <span class="talk-speaker">Tsuyoshi Kawai</span> <span class="talk-affiliation">(Saitama University / RIKEN R-CCS)</span><br><span class="talk-title">AFM-Fold: Rapid Reconstruction of Protein Conformations from AFM Images</span></div>
 <div class="program-talk"><span class="talk-time">P25</span> <span class="talk-speaker">Wenyang Zhao</span> <span class="talk-affiliation">(RIKEN R-CCS)</span><br><span class="talk-title">Identifying the most plausible phase-retrieved electron density maps of biocomplexes using 3D CNN autoencoder resampling</span></div>
@@ -284,6 +284,7 @@ Aya Takeuchi - aya.takeuchi at riken.jp
 
 ## Updates
 
+- 2026-05-27: Added a poster title
 - 2026-05-26: Updated poster titles; added an invited talk abstract
 - 2026-05-25: Assigned session chairs and added a new invited talk title and abstract
 - 2026-05-24: Registration closed (Zoom registration deadline reached)
